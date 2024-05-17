@@ -6,4 +6,8 @@ Gig Cards
 ![Screenshot 2024-04-28 222021](https://github.com/AbhinavTomar15/Fiverr_Clone/assets/104672177/b441fd27-e503-42ee-92d2-ea9ce5368ef3)
 Sign in Page
 <br/>
-![Screenshot 2024-04-28 224508](https://github.com/AbhinavTomar15/Fiverr_Clone/assets/104672177/c2e75da0-3f49-4cc8-9436-67e88920b110)
+![Screenshot 2024-04-28 223626](https://github.com/AbhinavTomar15/Fiverr_Clone/assets/104672177/d499fd0f-c237-47ee-b51e-1b0e49aa335d)
+Sign Up Page
+![Screenshot 2024-04-28 224508](https://github.com/AbhinavTomar15/Fiverr_Clone/assets/104672177/fc22357d-f406-4e72-a48b-0145b3a6d2f7)
+![Screenshot 2024-04-28 230522](https://github.com/AbhinavTomar15/Fiverr_Clone/assets/104672177/d49c70b9-0496-4278-b328-7a84dec0b6c8)
+
